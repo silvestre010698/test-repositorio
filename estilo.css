@@ -1,6 +1,12 @@
-article{
-    color: red;
+div#uno{
+    color:red;
 }
-span{
-    color:blue; 
+
+.segundo{
+    color:blue;
+}
+
+a:hover{
+    color: red;
+    font-size: 500px;
 }
